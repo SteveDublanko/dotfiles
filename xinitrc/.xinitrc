@@ -14,4 +14,5 @@ compton --config ~/.config/compton.conf -b
 ~/.scripts/fehbg.sh
 
 # Start I3
-exec i3
+#exec i3
+exec dbus-launch i3
