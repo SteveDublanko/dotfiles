@@ -32,7 +32,6 @@ set smartindent
 set tabstop=2
 set shiftwidth=2
 set expandtab
-set t_Co=256
 colors jellybeans
 syntax on
 set backspace=indent,eol,start
